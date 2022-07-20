@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Henny+Penny&family=Pacifico&family=Petit+Formal+Script&display=swap');
+
+body {
+    background-color: rgb(249, 241, 231);
+
+}
+
+.basic {
+    margin: 0px;
+
+}
+/*
+div {
+    border: 10px double blue;
+}*/
+
+.main1 {
+
+    /*width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;*/
+    position: relative;
+    left: 55%;
+    height: 830px;
+    margin: 0px;
+    font-size: 50px;
+    width: 44%;
+}
+
+.main2-1 {
+    position: relative;
+    width: 49%;
+    height: 800px;
+    font-size: 40px;
+}
+
+.main2-2 {
+    position: relative;
+    left: 50%;
+    top: -750px;
+    width: 49%;
+
+}
+
+.main3 {
+    position: relative;
+    height: 1300px;
+    top: 830px;
+}
+
+.contenthead {
+    font-size: 50px;
+    font-family: 'Petit Formal Script', cursive;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bg1 {
+    background-image: url("main1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.content {
+    margin-left: 5%;
+    font-family: 'Petit Formal Script', cursive;
+
+
+}
+
+.main2 {
+    position: absolute;
+    height: 800px;
+    width: 99%;
+    margin: 0%;
+    background-color: beige;
+}
+
+.main3-1 {
+    position: relative;
+    height: 530px;
+    /*border: 5px solid rgb(255, 0, 0);*/
+}
+
+.main3-2 {
+    position: relative;
+    height: 530px;
+  /*  border: 5px solid black;*/
+}
+
+.main4{
+    position: absolute;
+    width:100%;
+    height: 900px;
+    /*border:5px solid purple;*/
+    background-color: rgb(213, 248, 248);
+    top:3200px;
+}
+.main4-1{
+    border: 22px double seagreen;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: center;
+    font-size: 40px;
+    height: 600px;
+    margin-top: 100px;
+}
+.main4-1 input{
+    width:80%;
+    height: 50px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.main5{
+    background-color:rgb(185, 237, 216) ;
+    position: relative;
+    top:1650px;
+    height: 800px;
+    width: 100%;
+    background-image: url(bg8.jpg);
+    background-size: 100%;
+    opacity: 80%;
+}
+
+.topbar {
+    background-color: blanchedalmond;
+    font-size: 80px;
+    margin: -5px;
+    font-family: 'Henny Penny', cursive;
+    text-align: center;
+
+    margin-top: 10px;
+    border: 10px double black;
+    position: sticky;
+    top: 0;
+}
+
+.box {
+    width: 23%;
+    position: relative;
+    border: 5px solid black;
+    border-radius: 15px;
+    height: 500px;
+}
+
+.box1 {
+    left: 0px;
+}
+
+.box2 {
+    left: 25%;
+    top: -510px;
+}
+
+.box3 {
+    left: 50%;
+    top: -1020px;
+}
+
+.box4 {
+    left: 75%;
+    top: -1530px;
+}
+
+
+
+.box img {
+    width: 95%;
+    margin-top: 10px;
+}
+
+.box p {
+    font-size: xx-large;
+    margin: 10px;
+    text-align: center;
+    text-shadow: -1px 0 rgb(255, 0, 0), 0 1px rgb(97, 5, 255), 1px 0 black, 0 -1px black;
+}
+
+.box:hover {
+    background-color: rgb(212, 218, 246);
+    width: 25%;
+    height: 550px;
+}
+.base{
+    color: aliceblue;
+    margin-left: 53%;
+    margin-bottom: 10px;
+    text-align:left ;
+   
+}
+.base2{
+    font-size: xx-large;
+    margin-left: 55%;
+    margin-top: 2px;
+}
+.base2 a{
+    color: aliceblue;
+    font-size: 50px;
+    margin-left: 12px;
+}
+.main5-1{
+    margin-top: 20px;
+    border: 1px solid black;
+    height: ;
+}
+
+.top{
+    border: 3px solid purple;
+    width: 100%;
+    height: 70px;
+    background-color: burlywood;
+    text-align: center;
+     b 
+}
+.top a{
+    font-size: xx-large;
+    color: black;
+    margin-left: 50px;
+    text-decoration: none;
+    padding: 20px;
+}
+.top a:hover{
+    color: blue;
+}
